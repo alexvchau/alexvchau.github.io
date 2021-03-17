@@ -5,7 +5,7 @@ slug: /work
 items:
   - title: My Interest 1
     image:
-      src: /assets/img/work/water.png
+      src: https://raw.githubusercontent.com/alexvchau/alexvchau.github.io/master/assets/img/work/epl-premierleague-logo.png
       alt: water
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   - title: My Interest 2
