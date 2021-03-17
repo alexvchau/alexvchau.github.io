@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/0.jpg
+  src: https://raw.githubusercontent.com/alexvchau/alexvchau.github.io/master/assets/img/0.jpg
   alt: website picture
 ---
 
