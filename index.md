@@ -1,14 +1,14 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/0.jpg
   alt: website picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  I am a sophomore currently studying Data Analytics at Bentley University in Waltham, MA. My interests include data science applicaitons for social good and sports analytics.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+ When I am not studying, volunteering, or researching, I enjoy watching cooking, painting, and watching the NBA.
 </p>
