@@ -5,14 +5,15 @@ title: Alex Chau
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
 baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
-og_image: https://raw.githubusercontent.com/alexvchau/alexvchau.github.io/master/assets/img/0.jpg
+url: "https://alexvchau.github.io" # the base hostname & protocol for the site
+og_image: master/assets/img/0.jpg
 google_analytics: "UA-121636368-3"
 
 header:
   pages:
     - name: Home
       slug: /
+    - name: Research and Interests
 
 
 footer:
