@@ -1,5 +1,5 @@
 ---
-layout: fun
+layout: work
 title: Fun
 slug: /fun
 ---
