@@ -15,7 +15,8 @@ header:
       slug: /
     - name: Work
       slug: /work
-
+    - name: Fun
+      slug: /fun
 
 footer:
   show_powered_by: true
