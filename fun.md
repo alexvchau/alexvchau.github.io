@@ -3,7 +3,7 @@ layout: work
 title: Fun
 slug: /fun
 ---
-Here are pictures of some of things I have cooked/baked recently!
+Here are some pictures of my favorite creations I have cooked/baked recently!
 <br />
 
 ---
