@@ -18,5 +18,20 @@ Here are pictures of some of things I have cooked/baked recently!
 
 <br />
 
+### Handmade Pizza
+
+<figure>
+<img src="{{ "/assets/img/work/Asterix-z6-50Mpc-cut.png" | absolute_url }}" alt="Whoops" class="post-pic" width="100%">
+<figcaption> Whole milk mozzarella + handmade dough and sauce </figcaption>
+</figure>
+
+<br />
+
+### Strawberry Galette
+
+<figure>
+<img src="{{ "/assets/img/work/Asterix-z6-50Mpc-cut.png" | absolute_url }}" alt="Whoops" class="post-pic" width="100%">
+<figcaption> Contrasting the sweet of the strawberries with the lime zest + juice </figcaption>
+</figure>
 <br />
 <br />
