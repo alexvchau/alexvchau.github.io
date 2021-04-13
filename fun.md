@@ -12,7 +12,7 @@ Here are some pictures of my favorite creations I have cooked/baked recently!
 ### New York Style Bagels
 
 <figure>
-<img src="{{ "/assets/img/work/Asterix-z6-50Mpc-cut.png" | absolute_url }}" alt="Whoops" class="post-pic" width="100%">
+<img src="{{ "/assets/img/work/0C436314-679B-4A13-9C13-EDC0FD036EC2.jpeg" | absolute_url }}" alt="Whoops" class="post-pic" width="100%">
 <figcaption> Sesame Seed and Plain (Got to try making Everything bagels soon!) </figcaption>
 </figure>
 
